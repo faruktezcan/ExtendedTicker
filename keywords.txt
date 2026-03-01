@@ -1,0 +1,18 @@
+# Syntax coloring for ExtendedTicker
+# Datatypes (KEYWORD1 = orange)
+ExtendedTicker	KEYWORD1
+
+# Methods (KEYWORD2 = brown/yellow)
+repeatN	        KEYWORD2
+repeatUntil	    KEYWORD2
+once_after	    KEYWORD2
+repeatFor	    KEYWORD2
+pause	        KEYWORD2
+resume	        KEYWORD2
+remaining	    KEYWORD2
+elapsed	        KEYWORD2
+paused	        KEYWORD2
+detach	        KEYWORD2
+active	        KEYWORD2
+
+# Constants (LITERAL1 = teal)
